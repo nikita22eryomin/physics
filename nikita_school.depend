@@ -1,0 +1,1667 @@
+# depslib dependency file v1.0
+1596353071 source:c:\users\user\desktop\nikita_school\game.cpp
+	"headers.h"
+
+1596354292 c:\users\user\desktop\nikita_school\headers.h
+	<windows.h>
+	<tchar.h>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596354202 c:\users\user\desktop\nikita_school\input.h
+
+1596353264 c:\users\user\desktop\nikita_school\game.h
+	"input.h"
+	"graphics.h"
+
+1596353210 c:\users\user\desktop\nikita_school\graphics.h
+
+1596354202 source:c:\users\user\desktop\nikita_school\input.cpp
+	"headers.h"
+
+1596354202 source:c:\users\user\desktop\дети проект\nikita_school_2\input.cpp
+	"headers.h"
+
+1596354292 c:\users\user\desktop\дети проект\nikita_school_2\headers.h
+	<windows.h>
+	<tchar.h>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596354202 c:\users\user\desktop\дети проект\nikita_school_2\input.h
+
+1596353264 c:\users\user\desktop\дети проект\nikita_school_2\game.h
+	"input.h"
+	"graphics.h"
+
+1596353210 c:\users\user\desktop\дети проект\nikita_school_2\graphics.h
+
+1596354477 source:c:\users\user\desktop\дети проект\nikita_school_2\main.cpp
+	"headers.h"
+
+1596355458 source:c:\users\user\desktop\дети проект\nikita_school_3\game.cpp
+	"headers.h"
+
+1596354292 c:\users\user\desktop\дети проект\nikita_school_3\headers.h
+	<windows.h>
+	<tchar.h>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596354202 c:\users\user\desktop\дети проект\nikita_school_3\input.h
+
+1596353264 c:\users\user\desktop\дети проект\nikita_school_3\game.h
+	"input.h"
+	"graphics.h"
+
+1596353210 c:\users\user\desktop\дети проект\nikita_school_3\graphics.h
+
+1596354477 source:c:\users\user\desktop\дети проект\nikita_school_3\main.cpp
+	"headers.h"
+
+1596355700 source:c:\users\user\desktop\дети проект\nikita_school_3\input.cpp
+	"headers.h"
+	<iostream>
+
+1596389145 source:c:\users\user\desktop\дети проект\nikita_school_4\game.cpp
+	"headers.h"
+
+1596388952 c:\users\user\desktop\дети проект\nikita_school_4\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596378332 c:\users\user\desktop\дети проект\nikita_school_4\input.h
+
+1596389145 c:\users\user\desktop\дети проект\nikita_school_4\game.h
+	"input.h"
+	"graphics.h"
+
+1596353210 c:\users\user\desktop\дети проект\nikita_school_4\graphics.h
+
+1596389189 source:c:\users\user\desktop\дети проект\nikita_school_4\input.cpp
+	"headers.h"
+	<iostream>
+
+1596388824 source:c:\users\user\desktop\дети проект\nikita_school_4\main.cpp
+	"headers.h"
+
+1596388824 source:c:\users\user\desktop\дети проект\nikita_school_5\main.cpp
+	"headers.h"
+
+1596388952 c:\users\user\desktop\дети проект\nikita_school_5\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596556448 c:\users\user\desktop\дети проект\nikita_school_5\input.h
+
+1596389795 c:\users\user\desktop\дети проект\nikita_school_5\game.h
+	"input.h"
+	"graphics.h"
+
+1596353210 c:\users\user\desktop\дети проект\nikita_school_5\graphics.h
+
+1596389792 source:c:\users\user\desktop\дети проект\nikita_school_6\game.cpp
+	"headers.h"
+
+1596388952 c:\users\user\desktop\дети проект\nikita_school_6\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_6\input.h
+
+1596389795 c:\users\user\desktop\дети проект\nikita_school_6\game.h
+	"input.h"
+	"graphics.h"
+
+1596353210 c:\users\user\desktop\дети проект\nikita_school_6\graphics.h
+
+1596388824 source:c:\users\user\desktop\дети проект\nikita_school_6\main.cpp
+	"headers.h"
+
+1596389792 source:c:\users\user\desktop\дети проект\nikita_school_7\game.cpp
+	"headers.h"
+
+1596388952 c:\users\user\desktop\дети проект\nikita_school_7\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_7\input.h
+
+1596389795 c:\users\user\desktop\дети проект\nikita_school_7\game.h
+	"input.h"
+	"graphics.h"
+
+1596353210 c:\users\user\desktop\дети проект\nikita_school_7\graphics.h
+
+1596388824 source:c:\users\user\desktop\дети проект\nikita_school_7\main.cpp
+	"headers.h"
+
+1596389792 source:c:\users\user\desktop\дети проект\nikita_school_8\game.cpp
+	"headers.h"
+
+1596388952 c:\users\user\desktop\дети проект\nikita_school_8\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_8\input.h
+
+1596389795 c:\users\user\desktop\дети проект\nikita_school_8\game.h
+	"input.h"
+	"graphics.h"
+
+1596353210 c:\users\user\desktop\дети проект\nikita_school_8\graphics.h
+
+1596388824 source:c:\users\user\desktop\дети проект\nikita_school_8\main.cpp
+	"headers.h"
+
+1596389792 source:c:\users\user\desktop\дети проект\nikita_school_9\game.cpp
+	"headers.h"
+
+1596388952 c:\users\user\desktop\дети проект\nikita_school_9\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_9\input.h
+
+1597576613 c:\users\user\desktop\дети проект\nikita_school_9\game.h
+
+1596353210 c:\users\user\desktop\дети проект\nikita_school_9\graphics.h
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_9\input.cpp
+	"headers.h"
+	<iostream>
+
+1596388824 source:c:\users\user\desktop\дети проект\nikita_school_9\main.cpp
+	"headers.h"
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_10\input.cpp
+	"headers.h"
+	<iostream>
+
+1596388952 c:\users\user\desktop\дети проект\nikita_school_10\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_10\input.h
+
+1597582359 c:\users\user\desktop\дети проект\nikita_school_10\game.h
+
+1596353210 c:\users\user\desktop\дети проект\nikita_school_10\graphics.h
+
+1596388824 source:c:\users\user\desktop\дети проект\nikita_school_10\main.cpp
+	"headers.h"
+
+1597578529 source:c:\users\user\desktop\дети проект\nikita_school_10\game.cpp
+	"headers.h"
+
+1597606300 source:c:\users\user\desktop\дети проект\nikita_school_11\game.cpp
+	"headers.h"
+
+1597596750 c:\users\user\desktop\дети проект\nikita_school_11\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_11\input.h
+
+1597606768 c:\users\user\desktop\дети проект\nikita_school_11\game.h
+
+1596353210 c:\users\user\desktop\дети проект\nikita_school_11\graphics.h
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_11\input.cpp
+	"headers.h"
+	<iostream>
+
+1597596817 source:c:\users\user\desktop\дети проект\nikita_school_11\main.cpp
+	"headers.h"
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_14\input.cpp
+	"headers.h"
+	<iostream>
+
+1597596750 c:\users\user\desktop\дети проект\nikita_school_14\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_14\input.h
+
+1598189273 c:\users\user\desktop\дети проект\nikita_school_14\game.h
+
+1596353210 c:\users\user\desktop\дети проект\nikita_school_14\graphics.h
+
+1598189273 source:c:\users\user\desktop\дети проект\nikita_school_14\main.cpp
+	"headers.h"
+
+1598189273 source:c:\users\user\desktop\дети проект\nikita_school_14\game.cpp
+	"headers.h"
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_15\input.cpp
+	"headers.h"
+	<iostream>
+
+1597596750 c:\users\user\desktop\дети проект\nikita_school_15\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_15\input.h
+
+1598716133 c:\users\user\desktop\дети проект\nikita_school_15\game.h
+
+1596353210 c:\users\user\desktop\дети проект\nikita_school_15\graphics.h
+
+1598189273 source:c:\users\user\desktop\дети проект\nikita_school_15\main.cpp
+	"headers.h"
+
+1598713897 source:c:\users\user\desktop\дети проект\nikita_school_15\game.cpp
+	"headers.h"
+
+1598716133 source:c:\users\user\desktop\дети проект\nikita_school_16\game.cpp
+	"headers.h"
+
+1597596750 c:\users\user\desktop\дети проект\nikita_school_16\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_16\input.h
+
+1598718389 c:\users\user\desktop\дети проект\nikita_school_16\game.h
+
+1596353210 c:\users\user\desktop\дети проект\nikita_school_16\graphics.h
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_16\input.cpp
+	"headers.h"
+	<iostream>
+
+1598189273 source:c:\users\user\desktop\дети проект\nikita_school_16\main.cpp
+	"headers.h"
+
+1598716133 source:c:\users\user\desktop\дети проект\nikita_school_17\game.cpp
+	"headers.h"
+
+1597596750 c:\users\user\desktop\дети проект\nikita_school_17\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_17\input.h
+
+1598721658 c:\users\user\desktop\дети проект\nikita_school_17\game.h
+
+1598721658 c:\users\user\desktop\дети проект\nikita_school_17\graphics.h
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_17\input.cpp
+	"headers.h"
+	<iostream>
+
+1598189273 source:c:\users\user\desktop\дети проект\nikita_school_17\main.cpp
+	"headers.h"
+
+1598716133 source:c:\users\user\desktop\дети проект\nikita_school_18\game.cpp
+	"headers.h"
+
+1597596750 c:\users\user\desktop\дети проект\nikita_school_18\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_18\input.h
+
+1598722516 c:\users\user\desktop\дети проект\nikita_school_18\game.h
+
+1598722139 c:\users\user\desktop\дети проект\nikita_school_18\graphics.h
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_18\input.cpp
+	"headers.h"
+	<iostream>
+
+1598189273 source:c:\users\user\desktop\дети проект\nikita_school_18\main.cpp
+	"headers.h"
+
+1598722549 source:c:\users\user\desktop\дети проект\nikita_school_19\game.cpp
+	"headers.h"
+
+1597596750 c:\users\user\desktop\дети проект\nikita_school_19\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_19\input.h
+
+1598722516 c:\users\user\desktop\дети проект\nikita_school_19\game.h
+
+1598724000 c:\users\user\desktop\дети проект\nikita_school_19\graphics.h
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_19\input.cpp
+	"headers.h"
+	<iostream>
+
+1598189273 source:c:\users\user\desktop\дети проект\nikita_school_19\main.cpp
+	"headers.h"
+
+1598722549 source:c:\users\user\desktop\дети проект\nikita_school_20\game.cpp
+	"headers.h"
+
+1597596750 c:\users\user\desktop\дети проект\nikita_school_20\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_20\input.h
+
+1598722516 c:\users\user\desktop\дети проект\nikita_school_20\game.h
+
+1598725872 c:\users\user\desktop\дети проект\nikita_school_20\graphics.h
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_20\input.cpp
+	"headers.h"
+	<iostream>
+
+1598189273 source:c:\users\user\desktop\дети проект\nikita_school_20\main.cpp
+	"headers.h"
+
+1598722549 source:c:\users\user\desktop\дети проект\nikita_school_21\game.cpp
+	"headers.h"
+
+1597596750 c:\users\user\desktop\дети проект\nikita_school_21\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_21\input.h
+
+1598722516 c:\users\user\desktop\дети проект\nikita_school_21\game.h
+
+1598732625 c:\users\user\desktop\дети проект\nikita_school_21\graphics.h
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_21\input.cpp
+	"headers.h"
+	<iostream>
+
+1598189273 source:c:\users\user\desktop\дети проект\nikita_school_21\main.cpp
+	"headers.h"
+
+1598722549 source:c:\users\user\desktop\дети проект\nikita_school_22\game.cpp
+	"headers.h"
+
+1597596750 c:\users\user\desktop\дети проект\nikita_school_22\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_22\input.h
+
+1598722516 c:\users\user\desktop\дети проект\nikita_school_22\game.h
+
+1598734279 c:\users\user\desktop\дети проект\nikita_school_22\graphics.h
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_22\input.cpp
+	"headers.h"
+	<iostream>
+
+1598189273 source:c:\users\user\desktop\дети проект\nikita_school_22\main.cpp
+	"headers.h"
+
+1598734777 source:c:\users\user\desktop\дети проект\nikita_school_23\game.cpp
+	"headers.h"
+
+1597596750 c:\users\user\desktop\дети проект\nikita_school_23\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_23\input.h
+
+1598734777 c:\users\user\desktop\дети проект\nikita_school_23\game.h
+
+1598734867 c:\users\user\desktop\дети проект\nikita_school_23\graphics.h
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_23\input.cpp
+	"headers.h"
+	<iostream>
+
+1598189273 source:c:\users\user\desktop\дети проект\nikita_school_23\main.cpp
+	"headers.h"
+
+1598734777 source:c:\users\user\desktop\дети проект\nikita_school_24\game.cpp
+	"headers.h"
+
+1597596750 c:\users\user\desktop\дети проект\nikita_school_24\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_24\input.h
+
+1598735605 c:\users\user\desktop\дети проект\nikita_school_24\game.h
+
+1598734867 c:\users\user\desktop\дети проект\nikita_school_24\graphics.h
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_24\input.cpp
+	"headers.h"
+	<iostream>
+
+1598189273 source:c:\users\user\desktop\дети проект\nikita_school_24\main.cpp
+	"headers.h"
+
+1598734777 source:c:\users\user\desktop\дети проект\nikita_school_25\game.cpp
+	"headers.h"
+
+1597596750 c:\users\user\desktop\дети проект\nikita_school_25\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_25\input.h
+
+1598736912 c:\users\user\desktop\дети проект\nikita_school_25\game.h
+
+1598736830 c:\users\user\desktop\дети проект\nikita_school_25\graphics.h
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_25\input.cpp
+	"headers.h"
+	<iostream>
+
+1598189273 source:c:\users\user\desktop\дети проект\nikita_school_25\main.cpp
+	"headers.h"
+
+1598736912 source:c:\users\user\desktop\дети проект\nikita_school_26\game.cpp
+	"headers.h"
+
+1597596750 c:\users\user\desktop\дети проект\nikita_school_26\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_26\input.h
+
+1598737867 c:\users\user\desktop\дети проект\nikita_school_26\game.h
+
+1598736830 c:\users\user\desktop\дети проект\nikita_school_26\graphics.h
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_26\input.cpp
+	"headers.h"
+	<iostream>
+
+1598737867 source:c:\users\user\desktop\дети проект\nikita_school_26\main.cpp
+	"headers.h"
+
+1598738485 source:c:\users\user\desktop\дети проект\nikita_school_27\game.cpp
+	"headers.h"
+
+1597596750 c:\users\user\desktop\дети проект\nikita_school_27\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_27\input.h
+
+1598740022 c:\users\user\desktop\дети проект\nikita_school_27\game.h
+
+1598736830 c:\users\user\desktop\дети проект\nikita_school_27\graphics.h
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_27\input.cpp
+	"headers.h"
+	<iostream>
+
+1598737867 source:c:\users\user\desktop\дети проект\nikita_school_27\main.cpp
+	"headers.h"
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_28\input.cpp
+	"headers.h"
+	<iostream>
+
+1597596750 c:\users\user\desktop\дети проект\nikita_school_28\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_28\input.h
+
+1598740932 c:\users\user\desktop\дети проект\nikita_school_28\game.h
+
+1598736830 c:\users\user\desktop\дети проект\nikita_school_28\graphics.h
+
+1598737867 source:c:\users\user\desktop\дети проект\nikita_school_28\main.cpp
+	"headers.h"
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_29\input.cpp
+	"headers.h"
+	<iostream>
+
+1597596750 c:\users\user\desktop\дети проект\nikita_school_29\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_29\input.h
+
+1598741638 c:\users\user\desktop\дети проект\nikita_school_29\game.h
+
+1598736830 c:\users\user\desktop\дети проект\nikita_school_29\graphics.h
+
+1598737867 source:c:\users\user\desktop\дети проект\nikita_school_29\main.cpp
+	"headers.h"
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_30\input.cpp
+	"headers.h"
+	<iostream>
+
+1597596750 c:\users\user\desktop\дети проект\nikita_school_30\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_30\input.h
+
+1598767824 c:\users\user\desktop\дети проект\nikita_school_30\game.h
+
+1598736830 c:\users\user\desktop\дети проект\nikita_school_30\graphics.h
+
+1598737867 source:c:\users\user\desktop\дети проект\nikita_school_30\main.cpp
+	"headers.h"
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_31\input.cpp
+	"headers.h"
+	<iostream>
+
+1597596750 c:\users\user\desktop\дети проект\nikita_school_31\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_31\input.h
+
+1598769208 c:\users\user\desktop\дети проект\nikita_school_31\game.h
+
+1598736830 c:\users\user\desktop\дети проект\nikita_school_31\graphics.h
+
+1598737867 source:c:\users\user\desktop\дети проект\nikita_school_31\main.cpp
+	"headers.h"
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_32\input.cpp
+	"headers.h"
+	<iostream>
+
+1597596750 c:\users\user\desktop\дети проект\nikita_school_32\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_32\input.h
+
+1598770172 c:\users\user\desktop\дети проект\nikita_school_32\game.h
+
+1598736830 c:\users\user\desktop\дети проект\nikita_school_32\graphics.h
+
+1598737867 source:c:\users\user\desktop\дети проект\nikita_school_32\main.cpp
+	"headers.h"
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_33\input.cpp
+	"headers.h"
+	<iostream>
+
+1597596750 c:\users\user\desktop\дети проект\nikita_school_33\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_33\input.h
+
+1598771042 c:\users\user\desktop\дети проект\nikita_school_33\game.h
+
+1598736830 c:\users\user\desktop\дети проект\nikita_school_33\graphics.h
+
+1598737867 source:c:\users\user\desktop\дети проект\nikita_school_33\main.cpp
+	"headers.h"
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_34\input.cpp
+	"headers.h"
+	<iostream>
+
+1597596750 c:\users\user\desktop\дети проект\nikita_school_34\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_34\input.h
+
+1598772936 c:\users\user\desktop\дети проект\nikita_school_34\game.h
+
+1598736830 c:\users\user\desktop\дети проект\nikita_school_34\graphics.h
+
+1598737867 source:c:\users\user\desktop\дети проект\nikita_school_34\main.cpp
+	"headers.h"
+
+1598772892 source:c:\users\user\desktop\дети проект\nikita_school_35\game.cpp
+	"headers.h"
+
+1597596750 c:\users\user\desktop\дети проект\nikita_school_35\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_35\input.h
+
+1598774059 c:\users\user\desktop\дети проект\nikita_school_35\game.h
+
+1598736830 c:\users\user\desktop\дети проект\nikita_school_35\graphics.h
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_35\input.cpp
+	"headers.h"
+	<iostream>
+
+1598737867 source:c:\users\user\desktop\дети проект\nikita_school_35\main.cpp
+	"headers.h"
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_36\input.cpp
+	"headers.h"
+	<iostream>
+
+1597596750 c:\users\user\desktop\дети проект\nikita_school_36\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_36\input.h
+
+1598775292 c:\users\user\desktop\дети проект\nikita_school_36\game.h
+
+1598736830 c:\users\user\desktop\дети проект\nikita_school_36\graphics.h
+
+1598737867 source:c:\users\user\desktop\дети проект\nikita_school_36\main.cpp
+	"headers.h"
+
+1598775257 source:c:\users\user\desktop\дети проект\nikita_school_37\game.cpp
+	"headers.h"
+
+1598775822 c:\users\user\desktop\дети проект\nikita_school_37\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_37\input.h
+
+1598777719 c:\users\user\desktop\дети проект\nikita_school_37\game.h
+
+1598736830 c:\users\user\desktop\дети проект\nikita_school_37\graphics.h
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_37\input.cpp
+	"headers.h"
+	<iostream>
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_37\main.cpp
+	"headers.h"
+
+1598813515 source:c:\users\user\desktop\дети проект\nikita_school_38\game.cpp
+	"headers.h"
+
+1598775822 c:\users\user\desktop\дети проект\nikita_school_38\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_38\input.h
+
+1598809391 c:\users\user\desktop\дети проект\nikita_school_38\game.h
+
+1598813594 c:\users\user\desktop\дети проект\nikita_school_38\graphics.h
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_38\input.cpp
+	"headers.h"
+	<iostream>
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_38\main.cpp
+	"headers.h"
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_39\input.cpp
+	"headers.h"
+	<iostream>
+
+1598775822 c:\users\user\desktop\дети проект\nikita_school_39\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_39\input.h
+
+1598809391 c:\users\user\desktop\дети проект\nikita_school_39\game.h
+
+1599335001 c:\users\user\desktop\дети проект\nikita_school_39\graphics.h
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_39\main.cpp
+	"headers.h"
+
+1599334364 source:c:\users\user\desktop\дети проект\nikita_school_39\game.cpp
+	"headers.h"
+
+1599334364 source:c:\users\user\desktop\дети проект\nikita_school_40\game.cpp
+	"headers.h"
+
+1598775822 c:\users\user\desktop\дети проект\nikita_school_40\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_40\input.h
+
+1598809391 c:\users\user\desktop\дети проект\nikita_school_40\game.h
+
+1599336918 c:\users\user\desktop\дети проект\nikita_school_40\graphics.h
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_40\input.cpp
+	"headers.h"
+	<iostream>
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_40\main.cpp
+	"headers.h"
+
+1599334364 source:c:\users\user\desktop\дети проект\nikita_school_41\game.cpp
+	"headers.h"
+
+1598775822 c:\users\user\desktop\дети проект\nikita_school_41\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1596651381 c:\users\user\desktop\дети проект\nikita_school_41\input.h
+
+1598809391 c:\users\user\desktop\дети проект\nikita_school_41\game.h
+
+1599338569 c:\users\user\desktop\дети проект\nikita_school_41\graphics.h
+
+1596976563 source:c:\users\user\desktop\дети проект\nikita_school_41\input.cpp
+	"headers.h"
+	<iostream>
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_41\main.cpp
+	"headers.h"
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_42\main.cpp
+	"headers.h"
+
+1598775822 c:\users\user\desktop\дети проект\nikita_school_42\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1599374988 c:\users\user\desktop\дети проект\nikita_school_42\input.h
+
+1598809391 c:\users\user\desktop\дети проект\nikita_school_42\game.h
+
+1599338569 c:\users\user\desktop\дети проект\nikita_school_42\graphics.h
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_43\main.cpp
+	"headers.h"
+
+1598775822 c:\users\user\desktop\дети проект\nikita_school_43\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1599377979 c:\users\user\desktop\дети проект\nikita_school_43\input.h
+
+1598809391 c:\users\user\desktop\дети проект\nikita_school_43\game.h
+
+1599338569 c:\users\user\desktop\дети проект\nikita_school_43\graphics.h
+
+1599375137 source:c:\users\user\desktop\дети проект\nikita_school_43\input.cpp
+	"headers.h"
+	<iostream>
+
+1599375137 source:c:\users\user\desktop\дети проект\nikita_school_44\input.cpp
+	"headers.h"
+	<iostream>
+
+1598775822 c:\users\user\desktop\дети проект\nikita_school_44\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1599378655 c:\users\user\desktop\дети проект\nikita_school_44\input.h
+
+1598809391 c:\users\user\desktop\дети проект\nikita_school_44\game.h
+
+1599338569 c:\users\user\desktop\дети проект\nikita_school_44\graphics.h
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_44\main.cpp
+	"headers.h"
+
+1599379840 source:c:\users\user\desktop\дети проект\nikita_school_45\game.cpp
+	"headers.h"
+
+1598775822 c:\users\user\desktop\дети проект\nikita_school_45\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1599378655 c:\users\user\desktop\дети проект\nikita_school_45\input.h
+
+1598809391 c:\users\user\desktop\дети проект\nikita_school_45\game.h
+
+1599338569 c:\users\user\desktop\дети проект\nikita_school_45\graphics.h
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_45\main.cpp
+	"headers.h"
+
+1599380539 source:c:\users\user\desktop\дети проект\nikita_school_46\input.cpp
+	"headers.h"
+	<iostream>
+
+1598775822 c:\users\user\desktop\дети проект\nikita_school_46\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1599398170 c:\users\user\desktop\дети проект\nikita_school_46\input.h
+
+1598809391 c:\users\user\desktop\дети проект\nikita_school_46\game.h
+
+1599338569 c:\users\user\desktop\дети проект\nikita_school_46\graphics.h
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_46\main.cpp
+	"headers.h"
+
+1599392231 source:c:\users\user\desktop\дети проект\nikita_school_46\game.cpp
+	"headers.h"
+
+1599398460 source:c:\users\user\desktop\дети проект\nikita_school_47\input.cpp
+	"headers.h"
+	<iostream>
+
+1598775822 c:\users\user\desktop\дети проект\nikita_school_47\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1599402965 c:\users\user\desktop\дети проект\nikita_school_47\input.h
+
+1599402965 c:\users\user\desktop\дети проект\nikita_school_47\game.h
+
+1599402965 c:\users\user\desktop\дети проект\nikita_school_47\graphics.h
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_47\main.cpp
+	"headers.h"
+
+1599398460 source:c:\users\user\desktop\дети проект\nikita_school_47_e\input.cpp
+	"headers.h"
+	<iostream>
+
+1598775822 c:\users\user\desktop\дети проект\nikita_school_47_e\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1599402965 c:\users\user\desktop\дети проект\nikita_school_47_e\input.h
+
+1599402965 c:\users\user\desktop\дети проект\nikita_school_47_e\game.h
+
+1599412146 c:\users\user\desktop\дети проект\nikita_school_47_e\graphics.h
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_47_e\main.cpp
+	"headers.h"
+
+1599398460 source:c:\users\user\desktop\дети проект\nikita_school_49\input.cpp
+	"headers.h"
+	<iostream>
+
+1598775822 c:\users\user\desktop\дети проект\nikita_school_49\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1599402965 c:\users\user\desktop\дети проект\nikita_school_49\input.h
+
+1599417558 c:\users\user\desktop\дети проект\nikita_school_49\game.h
+
+1599412146 c:\users\user\desktop\дети проект\nikita_school_49\graphics.h
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_49\main.cpp
+	"headers.h"
+
+1599398460 source:c:\users\user\desktop\дети проект\nikita_school_50\input.cpp
+	"headers.h"
+	<iostream>
+
+1598775822 c:\users\user\desktop\дети проект\nikita_school_50\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+
+1599402965 c:\users\user\desktop\дети проект\nikita_school_50\input.h
+
+1599417558 c:\users\user\desktop\дети проект\nikita_school_50\game.h
+
+1599412146 c:\users\user\desktop\дети проект\nikita_school_50\graphics.h
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_50\main.cpp
+	"headers.h"
+
+1599398460 source:c:\users\user\desktop\дети проект\nikita_school_51\input.cpp
+	"headers.h"
+	<iostream>
+
+1600011527 c:\users\user\desktop\дети проект\nikita_school_51\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+	"registration.h"
+
+1599402965 c:\users\user\desktop\дети проект\nikita_school_51\input.h
+
+1600012756 c:\users\user\desktop\дети проект\nikita_school_51\game.h
+
+1599412146 c:\users\user\desktop\дети проект\nikita_school_51\graphics.h
+
+1600012789 c:\users\user\desktop\дети проект\nikita_school_51\registration.h
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_51\main.cpp
+	"headers.h"
+
+1600012756 source:c:\users\user\desktop\дети проект\nikita_school_51\game.cpp
+	"headers.h"
+
+1600013661 source:c:\users\user\desktop\дети проект\nikita_school_51\registration.cpp
+	"headers.h"
+
+1599398460 source:c:\users\user\desktop\дети проект\nikita_school_52\input.cpp
+	"headers.h"
+	<iostream>
+
+1600011527 c:\users\user\desktop\дети проект\nikita_school_52\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+	"registration.h"
+
+1599402965 c:\users\user\desktop\дети проект\nikita_school_52\input.h
+
+1600012756 c:\users\user\desktop\дети проект\nikita_school_52\game.h
+
+1599412146 c:\users\user\desktop\дети проект\nikita_school_52\graphics.h
+
+1600015431 c:\users\user\desktop\дети проект\nikita_school_52\registration.h
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_52\main.cpp
+	"headers.h"
+
+1600015431 source:c:\users\user\desktop\дети проект\nikita_school_52\registration.cpp
+	"headers.h"
+
+1600015941 source:c:\users\user\desktop\дети проект\nikita_school_52\game.cpp
+	"headers.h"
+
+1600015941 source:c:\users\user\desktop\дети проект\nikita_school_53\game.cpp
+	"headers.h"
+
+1600011527 c:\users\user\desktop\дети проект\nikita_school_53\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+	"registration.h"
+
+1599402965 c:\users\user\desktop\дети проект\nikita_school_53\input.h
+
+1600012756 c:\users\user\desktop\дети проект\nikita_school_53\game.h
+
+1599412146 c:\users\user\desktop\дети проект\nikita_school_53\graphics.h
+
+1600015431 c:\users\user\desktop\дети проект\nikita_school_53\registration.h
+
+1599398460 source:c:\users\user\desktop\дети проект\nikita_school_53\input.cpp
+	"headers.h"
+	<iostream>
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_53\main.cpp
+	"headers.h"
+
+1600015941 source:c:\users\user\desktop\дети проект\nikita_school_54\game.cpp
+	"headers.h"
+
+1600011527 c:\users\user\desktop\дети проект\nikita_school_54\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+	"registration.h"
+
+1599402965 c:\users\user\desktop\дети проект\nikita_school_54\input.h
+
+1600012756 c:\users\user\desktop\дети проект\nikita_school_54\game.h
+
+1599412146 c:\users\user\desktop\дети проект\nikita_school_54\graphics.h
+
+1600019101 c:\users\user\desktop\дети проект\nikita_school_54\registration.h
+
+1599398460 source:c:\users\user\desktop\дети проект\nikita_school_54\input.cpp
+	"headers.h"
+	<iostream>
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_54\main.cpp
+	"headers.h"
+
+1600015941 source:c:\users\user\desktop\дети проект\nikita_school_55\game.cpp
+	"headers.h"
+
+1600011527 c:\users\user\desktop\дети проект\nikita_school_55\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+	"registration.h"
+
+1599402965 c:\users\user\desktop\дети проект\nikita_school_55\input.h
+
+1600021497 c:\users\user\desktop\дети проект\nikita_school_55\game.h
+
+1599412146 c:\users\user\desktop\дети проект\nikita_school_55\graphics.h
+
+1600019101 c:\users\user\desktop\дети проект\nikita_school_55\registration.h
+
+1599398460 source:c:\users\user\desktop\дети проект\nikita_school_55\input.cpp
+	"headers.h"
+	<iostream>
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_55\main.cpp
+	"headers.h"
+
+1600019941 source:c:\users\user\desktop\дети проект\nikita_school_55\registration.cpp
+	"headers.h"
+
+1599398460 source:c:\users\user\desktop\дети проект\nikita_school_56\input.cpp
+	"headers.h"
+	<iostream>
+
+1600011527 c:\users\user\desktop\дети проект\nikita_school_56\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+	"registration.h"
+
+1599402965 c:\users\user\desktop\дети проект\nikita_school_56\input.h
+
+1600022082 c:\users\user\desktop\дети проект\nikita_school_56\game.h
+
+1599412146 c:\users\user\desktop\дети проект\nikita_school_56\graphics.h
+
+1600022082 c:\users\user\desktop\дети проект\nikita_school_56\registration.h
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_56\main.cpp
+	"headers.h"
+
+1600022082 source:c:\users\user\desktop\дети проект\nikita_school_56\registration.cpp
+	"headers.h"
+
+1600022356 source:c:\users\user\desktop\дети проект\nikita_school_56\game.cpp
+	"headers.h"
+
+1600022356 source:c:\users\user\desktop\дети проект\nikita_school_57\game.cpp
+	"headers.h"
+
+1600011527 c:\users\user\desktop\дети проект\nikita_school_57\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+	"registration.h"
+
+1600023421 c:\users\user\desktop\дети проект\nikita_school_57\input.h
+
+1600022082 c:\users\user\desktop\дети проект\nikita_school_57\game.h
+
+1599412146 c:\users\user\desktop\дети проект\nikita_school_57\graphics.h
+
+1600022082 c:\users\user\desktop\дети проект\nikita_school_57\registration.h
+
+1599398460 source:c:\users\user\desktop\дети проект\nikita_school_57\input.cpp
+	"headers.h"
+	<iostream>
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_57\main.cpp
+	"headers.h"
+
+1600022082 source:c:\users\user\desktop\дети проект\nikita_school_57\registration.cpp
+	"headers.h"
+
+1600023421 source:c:\users\user\desktop\дети проект\nikita_school_58\game.cpp
+	"headers.h"
+
+1600011527 c:\users\user\desktop\дети проект\nikita_school_58\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+	"registration.h"
+
+1600023421 c:\users\user\desktop\дети проект\nikita_school_58\input.h
+
+1600024066 c:\users\user\desktop\дети проект\nikita_school_58\game.h
+
+1599412146 c:\users\user\desktop\дети проект\nikita_school_58\graphics.h
+
+1600022082 c:\users\user\desktop\дети проект\nikita_school_58\registration.h
+
+1599398460 source:c:\users\user\desktop\дети проект\nikita_school_58\input.cpp
+	"headers.h"
+	<iostream>
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_58\main.cpp
+	"headers.h"
+
+1600022082 source:c:\users\user\desktop\дети проект\nikita_school_58\registration.cpp
+	"headers.h"
+
+1599398460 source:c:\users\user\desktop\дети проект\nikita_school_59\input.cpp
+	"headers.h"
+	<iostream>
+
+1600011527 c:\users\user\desktop\дети проект\nikita_school_59\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+	"registration.h"
+
+1600105380 c:\users\user\desktop\дети проект\nikita_school_59\input.h
+
+1600105380 c:\users\user\desktop\дети проект\nikita_school_59\game.h
+
+1599412146 c:\users\user\desktop\дети проект\nikita_school_59\graphics.h
+
+1600105380 c:\users\user\desktop\дети проект\nikita_school_59\registration.h
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_59\main.cpp
+	"headers.h"
+
+1600105380 source:c:\users\user\desktop\дети проект\nikita_school_59\registration.cpp
+	"headers.h"
+
+1600105916 source:c:\users\user\desktop\дети проект\nikita_school_59\game.cpp
+	"headers.h"
+
+1600105916 source:c:\users\user\desktop\дети проект\nikita_school_60\game.cpp
+	"headers.h"
+
+1600011527 c:\users\user\desktop\дети проект\nikita_school_60\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+	"registration.h"
+
+1600105380 c:\users\user\desktop\дети проект\nikita_school_60\input.h
+
+1600185512 c:\users\user\desktop\дети проект\nikita_school_60\game.h
+
+1599412146 c:\users\user\desktop\дети проект\nikita_school_60\graphics.h
+
+1600105380 c:\users\user\desktop\дети проект\nikita_school_60\registration.h
+
+1599398460 source:c:\users\user\desktop\дети проект\nikita_school_60\input.cpp
+	"headers.h"
+	<iostream>
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_60\main.cpp
+	"headers.h"
+
+1600107666 source:c:\users\user\desktop\дети проект\nikita_school_60\registration.cpp
+	"headers.h"
+
+1599398460 source:c:\users\user\desktop\дети проект\nikita_school_61\input.cpp
+	"headers.h"
+	<iostream>
+
+1600011527 c:\users\user\desktop\дети проект\nikita_school_61\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+	"registration.h"
+
+1600186501 c:\users\user\desktop\дети проект\nikita_school_61\input.h
+
+1600185512 c:\users\user\desktop\дети проект\nikita_school_61\game.h
+
+1599412146 c:\users\user\desktop\дети проект\nikita_school_61\graphics.h
+
+1600105380 c:\users\user\desktop\дети проект\nikita_school_61\registration.h
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_61\main.cpp
+	"headers.h"
+
+1600107666 source:c:\users\user\desktop\дети проект\nikita_school_61\registration.cpp
+	"headers.h"
+
+1600186501 source:c:\users\user\desktop\дети проект\nikita_school_62\game.cpp
+	"headers.h"
+
+1600011527 c:\users\user\desktop\дети проект\nikita_school_62\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+	"registration.h"
+
+1600186501 c:\users\user\desktop\дети проект\nikita_school_62\input.h
+
+1600185512 c:\users\user\desktop\дети проект\nikita_school_62\game.h
+
+1600187291 c:\users\user\desktop\дети проект\nikita_school_62\graphics.h
+
+1600105380 c:\users\user\desktop\дети проект\nikita_school_62\registration.h
+
+1599398460 source:c:\users\user\desktop\дети проект\nikita_school_62\input.cpp
+	"headers.h"
+	<iostream>
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_62\main.cpp
+	"headers.h"
+
+1600107666 source:c:\users\user\desktop\дети проект\nikita_school_62\registration.cpp
+	"headers.h"
+
+1600187466 source:c:\users\user\desktop\дети проект\nikita_school_63\game.cpp
+	"headers.h"
+
+1600011527 c:\users\user\desktop\дети проект\nikita_school_63\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+	"registration.h"
+
+1600186501 c:\users\user\desktop\дети проект\nikita_school_63\input.h
+
+1600185512 c:\users\user\desktop\дети проект\nikita_school_63\game.h
+
+1600188653 c:\users\user\desktop\дети проект\nikita_school_63\graphics.h
+
+1600105380 c:\users\user\desktop\дети проект\nikita_school_63\registration.h
+
+1599398460 source:c:\users\user\desktop\дети проект\nikita_school_63\input.cpp
+	"headers.h"
+	<iostream>
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_63\main.cpp
+	"headers.h"
+
+1600107666 source:c:\users\user\desktop\дети проект\nikita_school_63\registration.cpp
+	"headers.h"
+
+1599398460 source:c:\users\user\desktop\дети проект\nikita_school_64\input.cpp
+	"headers.h"
+	<iostream>
+
+1600011527 c:\users\user\desktop\дети проект\nikita_school_64\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+	"registration.h"
+
+1600194573 c:\users\user\desktop\дети проект\nikita_school_64\input.h
+
+1600194573 c:\users\user\desktop\дети проект\nikita_school_64\game.h
+
+1600188653 c:\users\user\desktop\дети проект\nikita_school_64\graphics.h
+
+1600105380 c:\users\user\desktop\дети проект\nikita_school_64\registration.h
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_64\main.cpp
+	"headers.h"
+
+1600107666 source:c:\users\user\desktop\дети проект\nikita_school_64\registration.cpp
+	"headers.h"
+
+1599398460 source:c:\users\user\desktop\дети проект\nikita_school_65\input.cpp
+	"headers.h"
+	<iostream>
+
+1600011527 c:\users\user\desktop\дети проект\nikita_school_65\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+	"registration.h"
+
+1600196427 c:\users\user\desktop\дети проект\nikita_school_65\input.h
+
+1600196579 c:\users\user\desktop\дети проект\nikita_school_65\game.h
+
+1600188653 c:\users\user\desktop\дети проект\nikita_school_65\graphics.h
+
+1600105380 c:\users\user\desktop\дети проект\nikita_school_65\registration.h
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_65\main.cpp
+	"headers.h"
+
+1600107666 source:c:\users\user\desktop\дети проект\nikita_school_65\registration.cpp
+	"headers.h"
+
+1600196427 source:c:\users\user\desktop\дети проект\nikita_school_65\game.cpp
+	"headers.h"
+
+1599398460 source:c:\users\user\desktop\дети проект\nikita_school_66\input.cpp
+	"headers.h"
+	<iostream>
+
+1600011527 c:\users\user\desktop\дети проект\nikita_school_66\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+	"registration.h"
+
+1600196427 c:\users\user\desktop\дети проект\nikita_school_66\input.h
+
+1600196579 c:\users\user\desktop\дети проект\nikita_school_66\game.h
+
+1600188653 c:\users\user\desktop\дети проект\nikita_school_66\graphics.h
+
+1600105380 c:\users\user\desktop\дети проект\nikita_school_66\registration.h
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_66\main.cpp
+	"headers.h"
+
+1600107666 source:c:\users\user\desktop\дети проект\nikita_school_66\registration.cpp
+	"headers.h"
+
+1600198069 source:c:\users\user\desktop\дети проект\nikita_school_67\game.cpp
+	"headers.h"
+
+1600011527 c:\users\user\desktop\дети проект\nikita_school_67\headers.h
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	"input.h"
+	"game.h"
+	"graphics.h"
+	"registration.h"
+
+1600196427 c:\users\user\desktop\дети проект\nikita_school_67\input.h
+
+1600196579 c:\users\user\desktop\дети проект\nikita_school_67\game.h
+
+1600548278 c:\users\user\desktop\дети проект\nikita_school_67\graphics.h
+
+1600105380 c:\users\user\desktop\дети проект\nikita_school_67\registration.h
+
+1599398460 source:c:\users\user\desktop\дети проект\nikita_school_67\input.cpp
+	"headers.h"
+	<iostream>
+
+1598775873 source:c:\users\user\desktop\дети проект\nikita_school_67\main.cpp
+	"headers.h"
+
+1600107666 source:c:\users\user\desktop\дети проект\nikita_school_67\registration.cpp
+	"headers.h"
+
